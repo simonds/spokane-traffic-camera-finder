@@ -699,8 +699,8 @@
         "image": "http://198.1.38.4/video.jpg?source=8441&framerate=0",
         "video": "http://198.1.38.4/video.jpg?source=8441&framerate=10&timeout=0",
         "direction": "No Data",
-        "lat": 47.6609907,
-        "lng": -117.3576638
+        "lat": 47.43208,
+        "lng": -117.21471
     },
     {
         "id": "cam62",
