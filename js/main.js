@@ -17,7 +17,8 @@ function load_video(position) {
   }
   closest = closestLocation(myLocation, cameras);
   $('#location').html('Closest is ' + closest.name);
-  $('#camera').attr('src', closest.video)
+  $('#camera').attr('src', closest.image);
+  $('#helper').show();
 }
 
 function handle_error(err) {
@@ -53,6 +54,10 @@ $(function() {
       cameras = data;
       get_location();
     });
+
+  $('#camera').on('click', function() {
+    this.src = closest.video;
+  });
 
 
 });

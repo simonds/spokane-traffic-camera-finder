@@ -395,3 +395,7 @@ nav a:hover {
         page-break-after: avoid;
     }
 }
+
+p#helper {
+    display:none;
+}
