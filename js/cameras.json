@@ -3,7 +3,7 @@
         "id": "cam22",
         "name": "2nd Ave and Browne St",
         "image": "http://198.1.38.5/video.jpg?source=7632&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7632&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7632&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.65454219999999,
         "lng": -117.4133973
@@ -12,7 +12,7 @@
         "id": "cam24",
         "name": "2nd Ave and Monroe St",
         "image": "http://198.1.38.5/video.jpg?source=7642&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7642&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7642&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6544718,
         "lng": -117.4264946
@@ -21,7 +21,7 @@
         "id": "cam75",
         "name": "2nd Ave and Stevens St",
         "image": "http://198.1.38.4/video.jpg?source=9711&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9711&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9711&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.654512,
         "lng": -117.4194808
@@ -30,7 +30,7 @@
         "id": "cam73",
         "name": "2nd Ave and Walnut St",
         "image": "http://198.1.38.4/video.jpg?source=9631&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9631&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9631&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.654452,
         "lng": -117.4340066
@@ -39,7 +39,7 @@
         "id": "cam74",
         "name": "3rd Ave and Lincoln St",
         "image": "http://198.1.38.4/video.jpg?source=9641&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9641&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9641&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6534486,
         "lng": -117.4249757
@@ -48,7 +48,7 @@
         "id": "cam26",
         "name": "3rd Ave and Maple St",
         "image": "http://198.1.38.5/video.jpg?source=7722&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7722&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7722&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6535615,
         "lng": -117.4355568
@@ -57,7 +57,7 @@
         "id": "cam23",
         "name": "3rd Ave and Washington St",
         "image": "http://198.1.38.5/video.jpg?source=7712&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7712&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7712&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.65347490000001,
         "lng": -117.4179545
@@ -66,7 +66,7 @@
         "id": "cam72",
         "name": "6th Ave and Stevens St",
         "image": "http://198.1.38.4/video.jpg?source=9621&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9621&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9621&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6503917,
         "lng": -117.4194333
@@ -75,7 +75,7 @@
         "id": "cam71",
         "name": "6th Ave and Washington St",
         "image": "http://198.1.38.4/video.jpg?source=9611&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9611&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9611&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6504039,
         "lng": -117.4179175
@@ -84,7 +84,7 @@
         "id": "cam52",
         "name": "Ash St and 5 Mile Rd",
         "image": "http://198.1.38.5/video.jpg?source=9542&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9542&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9542&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7170319,
         "lng": -117.4363841
@@ -93,7 +93,7 @@
         "id": "cam34",
         "name": "Ash St and Boone Ave",
         "image": "http://198.1.38.5/video.jpg?source=9222&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9222&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9222&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.66800800000001,
         "lng": -117.4369676
@@ -102,7 +102,7 @@
         "id": "cam49",
         "name": "Ash St and Francis Ave",
         "image": "http://198.1.38.5/video.jpg?source=9522&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9522&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9522&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7153998,
         "lng": -117.4363954
@@ -111,7 +111,7 @@
         "id": "cam44",
         "name": "Ash St and Garland Ave",
         "image": "http://198.1.38.5/video.jpg?source=9422&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9422&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9422&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6935007,
         "lng": -117.4364162
@@ -120,7 +120,7 @@
         "id": "cam39",
         "name": "Ash St and Indiana Ave",
         "image": "http://198.1.38.5/video.jpg?source=9322&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9322&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9322&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6749231,
         "lng": -117.4370025
@@ -129,7 +129,7 @@
         "id": "cam37",
         "name": "Ash St and Maxwell Ave",
         "image": "http://198.1.38.5/video.jpg?source=9242&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9242&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9242&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.67082500000001,
         "lng": -117.4369766
@@ -138,7 +138,7 @@
         "id": "cam42",
         "name": "Ash St and Northwest Blvd",
         "image": "http://198.1.38.5/video.jpg?source=9342&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9342&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9342&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6796863,
         "lng": -117.437019
@@ -147,7 +147,7 @@
         "id": "cam47",
         "name": "Ash St and Wellesley Ave",
         "image": "http://198.1.38.5/video.jpg?source=9442&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9442&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9442&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7007649,
         "lng": -117.4364314
@@ -156,7 +156,7 @@
         "id": "cam88",
         "name": "Division St and Bridgeport Ave",
         "image": "http://198.1.38.4/video.jpg?source=8331&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8331&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8331&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.688494,
         "lng": -117.4112632
@@ -165,7 +165,7 @@
         "id": "cam79",
         "name": "Division St and Buckeye Ave",
         "image": "http://198.1.38.4/video.jpg?source=9941&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9941&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9941&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6827727,
         "lng": -117.4111601
@@ -174,7 +174,7 @@
         "id": "cam87",
         "name": "Division St and Country Homes Blvd",
         "image": "http://198.1.38.4/video.jpg?source=8341&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8341&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8341&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.74086699999999,
         "lng": -117.411393
@@ -183,7 +183,7 @@
         "id": "cam84",
         "name": "Division St and Cozza Dr",
         "image": "/_images/content/camera-offline_sm.gif",
-        "video": "http://198.1.38.4/video.jpg?source=8231&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8231&framerate=20&timeout=0",
         "direction": "No Data",
         "status": "Offline",
         "lat": 47.72498040000001,
@@ -193,7 +193,7 @@
         "id": "cam83",
         "name": "Division St and Francis Ave",
         "image": "http://198.1.38.4/video.jpg?source=8241&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8241&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8241&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7149958,
         "lng": -117.4112867
@@ -202,7 +202,7 @@
         "id": "cam81",
         "name": "Division St and Garland Ave",
         "image": "http://198.1.38.4/video.jpg?source=9921&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9921&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9921&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.69383759999999,
         "lng": -117.4111095
@@ -211,7 +211,7 @@
         "id": "cam78",
         "name": "Division St and Indiana Ave",
         "image": "http://198.1.38.4/video.jpg?source=9811&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9811&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9811&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6749888,
         "lng": -117.4111384
@@ -220,7 +220,7 @@
         "id": "cam89",
         "name": "Division St and Lincoln Rd",
         "image": "http://198.1.38.4/video.jpg?source=8321&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8321&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8321&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.72944100000001,
         "lng": -117.4112541
@@ -229,7 +229,7 @@
         "id": "cam76",
         "name": "Division St and North River Dr",
         "image": "http://198.1.38.4/video.jpg?source=9831&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9831&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9831&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6640515,
         "lng": -117.411287
@@ -238,7 +238,7 @@
         "id": "cam82",
         "name": "Division St and Wellesley Ave",
         "image": "/_images/content/camera-offline_sm.gif",
-        "video": "http://198.1.38.4/video.jpg?source=9911&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9911&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.70065959999999,
         "lng": -117.4113127
@@ -247,7 +247,7 @@
         "id": "cam15",
         "name": "I-90 and Arthur St",
         "image": "http://198.1.38.4/video.jpg?source=7031&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7031&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7031&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.6556556,
         "lng": -117.395224
@@ -256,7 +256,7 @@
         "id": "cam10",
         "name": "I-90 and Division St #1",
         "image": "http://198.1.38.5/video.jpg?source=7022&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7022&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7022&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.39163,
         "lng": -117.24672
@@ -265,7 +265,7 @@
         "id": "cam11",
         "name": "I-90 and Division St #2",
         "image": "http://198.1.38.4/video.jpg?source=7431&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7431&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7431&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.39153,
         "lng": -117.24677
@@ -274,7 +274,7 @@
         "id": "cam7",
         "name": "I-90 and Finch Arboretum",
         "image": "http://198.1.38.4/video.jpg?source=7611&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7611&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7611&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.38289,
         "lng": -117.2802
@@ -283,7 +283,7 @@
         "id": "cam25",
         "name": "I-90 and Freya St",
         "image": "http://198.1.38.4/video.jpg?source=7111&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7111&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7111&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.6541674,
         "lng": -117.3546203
@@ -292,7 +292,7 @@
         "id": "cam20",
         "name": "I-90 and Hamilton St",
         "image": "http://198.1.38.5/video.jpg?source=7042&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7042&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7042&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.39132,
         "lng": -117.23677
@@ -301,7 +301,7 @@
         "id": "cam9",
         "name": "I-90 and Jefferson St",
         "image": "http://198.1.38.4/video.jpg?source=7411&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7411&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7411&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.65271600000001,
         "lng": -117.4295507
@@ -310,7 +310,7 @@
         "id": "cam8",
         "name": "I-90 and US-195",
         "image": "http://198.1.38.5/video.jpg?source=7422&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7422&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7422&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.646811,
         "lng": -117.450136
@@ -319,7 +319,7 @@
         "id": "cam51",
         "name": "Maple St and 5 Mile Rd",
         "image": "http://198.1.38.5/video.jpg?source=9532&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9532&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9532&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7170289,
         "lng": -117.4350597
@@ -328,7 +328,7 @@
         "id": "cam33",
         "name": "Maple St and Boone Ave",
         "image": "http://198.1.38.5/video.jpg?source=9212&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9212&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9212&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6680182,
         "lng": -117.4355271
@@ -337,7 +337,7 @@
         "id": "cam48",
         "name": "Maple St and Francis Ave",
         "image": "http://198.1.38.5/video.jpg?source=9512&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9512&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9512&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7153928,
         "lng": -117.4350628
@@ -346,7 +346,7 @@
         "id": "cam43",
         "name": "Maple St and Garland Ave",
         "image": "http://198.1.38.5/video.jpg?source=9412&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9412&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9412&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6934985,
         "lng": -117.435083
@@ -355,7 +355,7 @@
         "id": "cam38",
         "name": "Maple St and Indiana Ave",
         "image": "http://198.1.38.5/video.jpg?source=9312&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9312&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9312&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6749324,
         "lng": -117.4355548
@@ -364,7 +364,7 @@
         "id": "cam36",
         "name": "Maple St and Maxwell Ave",
         "image": "http://198.1.38.5/video.jpg?source=9232&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9232&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9232&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6708294,
         "lng": -117.4355417
@@ -373,7 +373,7 @@
         "id": "cam41",
         "name": "Maple St and Northwest Blvd",
         "image": "http://198.1.38.5/video.jpg?source=9332&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9332&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9332&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6790291,
         "lng": -117.4355536
@@ -382,7 +382,7 @@
         "id": "cam46",
         "name": "Maple St and Wellesley Ave",
         "image": "http://198.1.38.5/video.jpg?source=9432&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9432&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9432&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7007645,
         "lng": -117.4350783
@@ -391,7 +391,7 @@
         "id": "cam77",
         "name": "Ruby St and Mission Ave",
         "image": "http://198.1.38.4/video.jpg?source=9821&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9821&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9821&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6717661,
         "lng": -117.4095337
@@ -400,7 +400,7 @@
         "id": "cam80",
         "name": "Ruby St and North Foothills Dr",
         "image": "http://198.1.38.4/video.jpg?source=9931&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9931&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9931&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6827376,
         "lng": -117.4098871
@@ -409,7 +409,7 @@
         "id": "cam21",
         "name": "Trent Ave and Hamilton St",
         "image": "http://198.1.38.5/video.jpg?source=7622&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7622&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7622&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.66191329999999,
         "lng": -117.3964541
@@ -418,7 +418,7 @@
         "id": "cam91",
         "name": "US-195 and 16th Ave",
         "image": "http://198.1.38.4/video.jpg?source=8021&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8021&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8021&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6410121,
         "lng": -117.4486543
@@ -427,7 +427,7 @@
         "id": "cam94",
         "name": "US-195 and Cheney Spokane Rd",
         "image": "http://198.1.38.5/video.jpg?source=8312&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=8312&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=8312&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6190594,
         "lng": -117.432282
@@ -436,7 +436,7 @@
         "id": "cam93",
         "name": "US-195 and Inland Empire Way",
         "image": "http://198.1.38.4/video.jpg?source=8111&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8111&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8111&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.5621734,
         "lng": -117.396825
@@ -445,7 +445,7 @@
         "id": "cam92",
         "name": "US-195 and Thorpe Rd",
         "image": "http://198.1.38.5/video.jpg?source=8012&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=8012&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=8012&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6324655,
         "lng": -117.4448826
@@ -454,7 +454,7 @@
         "id": "cam86",
         "name": "US-2 and Hawthorne Rd",
         "image": "http://198.1.38.4/video.jpg?source=8211&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8211&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8211&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7511732,
         "lng": -117.4108816
@@ -463,7 +463,7 @@
         "id": "cam85",
         "name": "US-2 and Holland Ave",
         "image": "http://198.1.38.4/video.jpg?source=8221&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8221&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8221&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.74392779999999,
         "lng": -117.4075013
@@ -472,7 +472,7 @@
         "id": "cam31",
         "name": "Appleway Blvd and Dishman Mica Rd",
         "image": "http://198.1.38.5/video.jpg?source=8132&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=8132&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=8132&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6553061,
         "lng": -117.2813504
@@ -481,7 +481,7 @@
         "id": "cam29",
         "name": "Appleway Blvd and Park Rd",
         "image": "http://198.1.38.5/video.jpg?source=8142&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=8142&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=8142&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6557776,
         "lng": -117.3040907
@@ -490,7 +490,7 @@
         "id": "cam32",
         "name": "Appleway Blvd and University Rd",
         "image": "http://198.1.38.5/video.jpg?source=8122&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=8122&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=8122&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6550574,
         "lng": -117.2613887
@@ -499,7 +499,7 @@
         "id": "cam55",
         "name": "I-90 and Argonne Rd",
         "image": "http://198.1.38.4/video.jpg?source=7231&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7231&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7231&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.6578751,
         "lng": -117.2828191
@@ -508,7 +508,7 @@
         "id": "cam45",
         "name": "I-90 and Broadway Ave",
         "image": "http://198.1.38.4/video.jpg?source=7211&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7211&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7211&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.6637059,
         "lng": -117.3144063
@@ -517,7 +517,7 @@
         "id": "cam60",
         "name": "I-90 and Evergreen Rd",
         "image": "http://198.1.38.5/video.jpg?source=7322&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7322&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7322&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6583926,
         "lng": -117.2181412
@@ -526,7 +526,7 @@
         "id": "cam35",
         "name": "I-90 and Fancher Rd",
         "image": "http://198.1.38.4/video.jpg?source=7131&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7131&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7131&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.65420169999999,
         "lng": -117.3275317
@@ -535,7 +535,7 @@
         "id": "cam18",
         "name": "I-90 and Flora Rd",
         "image": "http://198.1.38.5/video.jpg?source=7742&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7742&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7742&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.65779389999999,
         "lng": -117.175028
@@ -544,7 +544,7 @@
         "id": "cam30",
         "name": "I-90 and Havana St",
         "image": "http://198.1.38.5/video.jpg?source=7122&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7122&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7122&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.6563724,
         "lng": -117.3469757
@@ -553,7 +553,7 @@
         "id": "cam50",
         "name": "I-90 and Park Rd",
         "image": "http://198.1.38.5/video.jpg?source=7222&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7222&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7222&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.6573542,
         "lng": -117.3040789
@@ -562,7 +562,7 @@
         "id": "cam57",
         "name": "I-90 and Pines Rd",
         "image": "http://198.1.38.4/video.jpg?source=7331&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7331&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7331&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.6582264,
         "lng": -117.2397522
@@ -571,7 +571,7 @@
         "id": "cam40",
         "name": "I-90 and Sprague Ave",
         "image": "http://198.1.38.5/video.jpg?source=7142&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7142&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7142&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.657275,
         "lng": -117.4098393
@@ -580,7 +580,7 @@
         "id": "cam61",
         "name": "I-90 and Sullivan Rd",
         "image": "http://198.1.38.4/video.jpg?source=7311&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7311&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7311&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.6585116,
         "lng": -117.1965239
@@ -589,7 +589,7 @@
         "id": "cam56",
         "name": "I-90 and University Rd",
         "image": "http://198.1.38.5/video.jpg?source=7342&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7342&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7342&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.6579702,
         "lng": -117.2613434
@@ -598,7 +598,7 @@
         "id": "cam19",
         "name": "I-90 and Appleway Ave",
         "image": "http://198.1.38.4/video.jpg?source=7831&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7831&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7831&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6549775,
         "lng": -117.2775325
@@ -607,7 +607,7 @@
         "id": "cam4",
         "name": "I-90 and Geiger Blvd",
         "image": "http://198.1.38.4/video.jpg?source=7511&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7511&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7511&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.6423024,
         "lng": -117.4822116
@@ -616,7 +616,7 @@
         "id": "cam64",
         "name": "I-90 and Harvard Rd",
         "image": "http://198.1.38.4/video.jpg?source=7441&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7441&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7441&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.40347,
         "lng": -117.6523
@@ -625,7 +625,7 @@
         "id": "cam65",
         "name": "I-90 and Idaho Rd",
         "image": "http://198.1.38.4/video.jpg?source=7841&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7841&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7841&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.41758,
         "lng": -117.29
@@ -634,7 +634,7 @@
         "id": "cam27",
         "name": "I-90 and Liberty Lake Rd",
         "image": "http://198.1.38.5/video.jpg?source=7822&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7822&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7822&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.40372,
         "lng": -117.651
@@ -643,7 +643,7 @@
         "id": "cam2",
         "name": "I-90 and Medical Lake Rd",
         "image": "http://198.1.38.4/video.jpg?source=7541&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7541&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7541&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.35513,
         "lng": -117.33904
@@ -652,7 +652,7 @@
         "id": "cam28",
         "name": "I-90 and Starr Rd",
         "image": "http://198.1.38.5/video.jpg?source=7812&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7812&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7812&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.718553,
         "lng": -117.06136
@@ -661,7 +661,7 @@
         "id": "cam3",
         "name": "I-90 and Thomas Mallen Rd",
         "image": "http://198.1.38.5/video.jpg?source=7532&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7532&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7532&framerate=20&timeout=0",
         "direction": "East",
         "lat": 47.60998379999999,
         "lng": -117.534042
@@ -670,7 +670,7 @@
         "id": "cam5",
         "name": "I-90 and US-2",
         "image": "http://198.1.38.5/video.jpg?source=7012&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7012&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7012&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.38016,
         "lng": -117.28793
@@ -679,7 +679,7 @@
         "id": "cam59",
         "name": "NSC-395 and Fairview Rd",
         "image": "http://198.1.38.4/video.jpg?source=7911&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7911&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7911&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.6854494,
         "lng": -117.4047955
@@ -688,7 +688,7 @@
         "id": "cam53",
         "name": "NSC-395 and Farwell Rd",
         "image": "http://198.1.38.5/video.jpg?source=8042&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=8042&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=8042&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.77294759999999,
         "lng": -117.4049137
@@ -697,7 +697,7 @@
         "id": "cam95",
         "name": "NSC-395 and Freya St",
         "image": "http://198.1.38.4/video.jpg?source=8441&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8441&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8441&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.43208,
         "lng": -117.21471
@@ -706,7 +706,7 @@
         "id": "cam62",
         "name": "NSC-395 and Gerlach Rd",
         "image": "http://198.1.38.5/video.jpg?source=7942&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7942&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7942&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7428678,
         "lng": -117.3450679
@@ -715,7 +715,7 @@
         "id": "cam63",
         "name": "NSC-395 and Lincoln Rd",
         "image": "http://198.1.38.4/video.jpg?source=8031&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=8031&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=8031&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.7294562,
         "lng": -117.4031386
@@ -724,7 +724,7 @@
         "id": "cam58",
         "name": "NSC-395 and Market St",
         "image": "http://198.1.38.5/video.jpg?source=7922&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=7922&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=7922&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.44975,
         "lng": -117.21575
@@ -733,7 +733,7 @@
         "id": "cam54",
         "name": "NSC-395 and Parksmith Dr",
         "image": "http://198.1.38.4/video.jpg?source=7931&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7931&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7931&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.45387,
         "lng": -117.2177
@@ -742,7 +742,7 @@
         "id": "cam66",
         "name": "NSC-395 and Perry St",
         "image": "http://198.1.38.5/video.jpg?source=9742&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9742&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9742&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.46727,
         "lng": -117.23373
@@ -751,7 +751,7 @@
         "id": "cam68",
         "name": "NSC-395 and Shady Slope Rd",
         "image": "http://198.1.38.4/video.jpg?source=9721&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9721&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9721&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.46594,
         "lng": -117.22439
@@ -760,7 +760,7 @@
         "id": "cam69",
         "name": "NSC-395 and US-2",
         "image": "http://198.1.38.5/video.jpg?source=9842&framerate=0",
-        "video": "http://198.1.38.5/video.jpg?source=9842&framerate=10&timeout=0",
+        "video": "http://198.1.38.5/video.jpg?source=9842&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.46511,
         "lng": -117.22367
@@ -769,7 +769,7 @@
         "id": "cam67",
         "name": "NSC-395 and Wandermere Rd",
         "image": "http://198.1.38.4/video.jpg?source=9731&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=9731&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=9731&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.46811,
         "lng": -117.24091
@@ -778,7 +778,7 @@
         "id": "cam13",
         "name": "US-2 and Farwell Rd",
         "image": "http://198.1.38.4/video.jpg?source=7241&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7241&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7241&framerate=20&timeout=0",
         "direction": "No Data",
         "lat": 47.46371,
         "lng": -117.22224
@@ -787,7 +787,7 @@
         "id": "cam6",
         "name": "US-2 and I-90",
         "image": "http://198.1.38.4/video.jpg?source=7521&framerate=0",
-        "video": "http://198.1.38.4/video.jpg?source=7521&framerate=10&timeout=0",
+        "video": "http://198.1.38.4/video.jpg?source=7521&framerate=20&timeout=0",
         "direction": "West",
         "lat": 47.46553,
         "lng": -117.22401
